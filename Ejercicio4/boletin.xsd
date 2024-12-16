@@ -7,7 +7,7 @@
         <xs:element name="ciclo" type="xs:string"/>
         <xs:element name="curso" type="xs:int"/>
         <xs:element name="evaluacion" type="xs:int"/>
-        <xs:element name="cualificacion">
+        <xs:element name="calificacion">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="modulo" type="xs:string"/>

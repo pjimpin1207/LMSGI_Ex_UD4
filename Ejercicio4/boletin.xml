@@ -5,15 +5,15 @@ xsi:noNamespaceSchemaLocation="boletin.xsd">
  <ciclo>Administración de Finanzas</ciclo>
  <curso>2</curso>
  <evaluacion>1</evaluacion>
- <cualificacion>
- <modulo>Economía</modulo>
- <curso>1</curso>
- <nota>6</nota>
- </cualificacion>
- <cualificacion>
- <modulo>Operaciones</modulo>
- <curso>1</curso>
- <nota>7</nota>
- </cualificacion>
+ <calificacion>
+    <modulo>Economía</modulo>
+    <curso>1</curso>
+    <nota>6</nota>
+ </calificacion>
+ <calificacion>
+    <modulo>Operaciones</modulo>
+    <curso>1</curso>
+    <nota>7</nota>
+ </calificacion>
  </boletin>
 <!-- La nota es un entero entre 1 y 10 →
