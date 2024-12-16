@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boletin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="boletin.xsd">
+ <nombre>Francisco Márquez</nombre>
+ <ciclo>Administración de Finanzas</ciclo>
+ <curso>2</curso>
+ <evaluacion>1</evaluacion>
+ <cualificacion>
+ <modulo>Economía</modulo>
+ <curso>1</curso>
+ <nota>6</nota>
+ </cualificacion>
+ <cualificacion>
+ <modulo>Operaciones</modulo>
+ <curso>1</curso>
+ <nota>7</nota>
+ </cualificacion>
+ </boletin>
+<!-- La nota es un entero entre 1 y 10 →
